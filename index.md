@@ -1,6 +1,3 @@
-# Brice Le Borgne
-## Etudiant en (data)journalisme
-
 M2 à l'ESJ Lille. En apprentissage au sein de [l'équipe data de l'AFP](https://interactive.afp.com/), jusqu'à la fin août 2018.
 
 Ce site est en construction. En attendant, et si ça vous intéresse, vous pouvez voir : 
