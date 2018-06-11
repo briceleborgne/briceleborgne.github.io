@@ -7,4 +7,4 @@ Ce site est en construction. En attendant, et si ça vous intéresse, vous pouve
 
 
 
-[](/files/loading.gif)
+![](/files/loading.gif)
