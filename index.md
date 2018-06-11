@@ -1,3 +1,5 @@
-## Yolo
+# Brice Le Borgne
+## Etudiant en (data)journalisme
+AFP X ESJ Lille
 
-Et ça donne ça
+Ici, [le blog perso](http://lebiberongrec.wordpress.com)
