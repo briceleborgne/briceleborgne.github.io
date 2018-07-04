@@ -8,6 +8,7 @@ Ce site est en construction. En attendant, et si ça vous intéresse, vous pouve
 Pour me contater : 
 - en DM sur [Twitter](http://www.twitter.com/BriceLeBorgne)
 - brice.leborgne@gmail.com
+- par messagerie cryptée ([clé PGP](/files/Brice_Le_Borgne_pub.asc), Telegram)
 
 
 ![](/files/loading.gif)
