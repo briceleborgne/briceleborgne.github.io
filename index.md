@@ -5,6 +5,9 @@ Ce site est en construction. En attendant, et si ça vous intéresse, vous pouve
 - un [blog perso](http://lebiberongrec.wordpress.com) que j'alimente irrégulièrement depuis 2012
 
 
+Pour me contater : 
+- en DM sur [Twitter](http://www.twitter.com/BriceLeBorgne)
+- brice.leborgne@gmail.com
 
 
 ![](/files/loading.gif)
