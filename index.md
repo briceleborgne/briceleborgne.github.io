@@ -1,14 +1,14 @@
-M2 à l'ESJ Lille. En apprentissage au sein de [l'équipe data de l'AFP](https://interactive.afp.com/), jusqu'à la fin août 2018.
+Fraîchement diplômé de l'ESJ Lille. Après un apprentissage à l'AFP, et notamment au sein de [leur équipe data](https://interactive.afp.com/), je rejoins l'Oeil du 20h, sur France 2.
 
 Ce site est en construction. En attendant, et si ça vous intéresse, vous pouvez consulter : 
-- mon [CV actualisé](/files/cv.jpg)
-- un [blog perso](http://lebiberongrec.wordpress.com) que j'alimente irrégulièrement depuis 2012
+- [mon CV](/files/cv.jpg)
+- un [blog perso](http://lebiberongrec.wordpress.com) que j'alimente (très) irrégulièrement depuis 2012
 
 
 Pour me contater : 
 - en DM sur [Twitter](http://www.twitter.com/BriceLeBorgne)
 - brice.leborgne@gmail.com
-- par messagerie cryptée ([clé PGP](/files/Brice_Le_Borgne_pub.asc), Telegram)
+- par messagerie cryptée ([clé PGP](/files/Brice_Le_Borgne_pub.asc), Telegram, Signal)
 
 
 ![](/files/loading.gif)
