@@ -3,6 +3,7 @@ Diplômé de l'ESJ Lille en 2018. Après un apprentissage à l'AFP, et notamment
 Pour me contater : 
 - en DM sur [Twitter](http://www.twitter.com/BriceLeBorgne)
 - ProtonMail : brice.leborgne@protonmail.com
+- ricochet:r67wawhpwdme7fhu
 - par messagerie cryptée ([clé PGP](/files/Brice_Le_Borgne_pub.asc), Telegram, Signal)
 
 
