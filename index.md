@@ -1,4 +1,6 @@
-Diplômé de l'ESJ Lille en 2018. Après un apprentissage à l'AFP, et notamment au sein de [leur équipe data](https://interactive.afp.com/), j'ai rejoint  France 2 en tant que datajournaliste.
+Diplômé de l'ESJ Lille (2018)
+Apprentis à l'Agence France Presse (2017/18)
+Datajournaliste à France 2 (2018/2019)
 
 Pour me contater : 
 - en DM sur [Twitter](http://www.twitter.com/BriceLeBorgne)
