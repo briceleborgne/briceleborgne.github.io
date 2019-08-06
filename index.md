@@ -1,6 +1,6 @@
-Diplômé de l'ESJ Lille (2018)
-Apprentis à l'Agence France Presse (2017/18)
-Datajournaliste à France 2 (2018/2019)
+Diplômé de l'ESJ Lille (2018)  
+Apprentis à l'Agence France Presse (2017/18)  
+Datajournaliste à France 2 (2018/2019)  
 
 Pour me contater : 
 - en DM sur [Twitter](http://www.twitter.com/BriceLeBorgne)
