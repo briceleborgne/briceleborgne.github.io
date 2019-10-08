@@ -4,10 +4,8 @@
 - ricochet:r67wawhpwdme7fhu
 - par messagerie cryptée ([clé PGP](/files/Brice_Le_Borgne_pub.asc), Telegram, Signal)
 
-
-
+<br/><br/>
 ## Parcours
-
 |           |                                              |
 |:----------|:---------------------------------------------|
 | 2018/2019 | Datajournaliste à France 2                   |
@@ -17,9 +15,7 @@
 | Eté 2017  | Stagiaire Ouest-France (locale isolée)       |
 | Eté 2016  | Stagiaire data Le Parisien                   |
 
-
-
-
+<br/><br/>
 ## Portfolio
 
 ### France 2
