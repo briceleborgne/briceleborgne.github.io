@@ -2,7 +2,7 @@
 - en DM sur [Twitter](http://www.twitter.com/BriceLeBorgne)
 - ProtonMail : brice.leborgne@protonmail.com
 - ricochet:r67wawhpwdme7fhu
-- par messagerie cryptée ([clé PGP](/files/Brice_Le_Borgne_pub.asc), Telegram, Signal)
+- par messagerie cryptée (Signal, Telegram, [clé PGP](/files/Brice_Le_Borgne_pub.asc))
 
 <br/><br/>
 ## Parcours
