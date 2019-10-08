@@ -4,6 +4,8 @@
 - ricochet:r67wawhpwdme7fhu
 - par messagerie cryptée ([clé PGP](/files/Brice_Le_Borgne_pub.asc), Telegram, Signal)
 
+
+
 ## Parcours
 
 | Période   | Média                                        |
@@ -14,6 +16,9 @@
 | 2018      | Diplômé de l'ESJ Lille + Sciences Po Lille   |
 | Eté 2017  | Stagiaire Ouest-France (locale isolée)       |
 | Eté 2016  | Stagiaire data Le Parisien                   |
+
+
+
 
 ## Portfolio
 
