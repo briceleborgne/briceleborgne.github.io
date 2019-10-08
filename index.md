@@ -8,7 +8,7 @@
 
 ## Parcours
 
-| Période   | Média                                        |
+|           |                                              |
 |:----------|:---------------------------------------------|
 | 2018/2019 | Datajournaliste à France 2                   |
 | Août 2019 | Pigiste Mediapart                            |
