@@ -13,7 +13,7 @@
 | Août 2019 | Pigiste Mediapart                            |
 | 2017/2018 | Apprenti à l'Agence France Presse (AFP)      |
 | 2018      | Diplômé de l'ESJ Lille + Sciences Po Lille   |
-| Eté 2017  | Stagiaire Ouest-France (locale isolée)       |
+| Eté 2017  | Localier Ouest-France (Finistère)       |
 | Eté 2016  | Stagiaire data Le Parisien                   |
 
 <br/><br/>
