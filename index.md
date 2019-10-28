@@ -9,12 +9,13 @@
 
 |           |                                              |
 |:----------|:---------------------------------------------|
-| 2018/2019 | Datajournaliste à France 2                   |
+| 2018/2019 | Journaliste à France 2                       |
 | Août 2019 | Pigiste Mediapart                            |
 | 2017/2018 | Apprenti à l'Agence France Presse (AFP)      |
 | 2018      | Diplômé de l'ESJ Lille + Sciences Po Lille   |
-| Eté 2017  | Localier Ouest-France (Finistère)       |
+| Eté 2017  | Localier Ouest-France (Finistère)            |
 | Eté 2016  | Stagiaire data Le Parisien                   |
+| 2014/2015 | Stagiaire El Mercurio de Antofagasta (Chili) |
 
 <br/><br/>
 ## Portfolio
