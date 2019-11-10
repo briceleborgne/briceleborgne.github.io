@@ -14,6 +14,7 @@
 | 2017/2018 | Apprenti à l'Agence France Presse (AFP)      |
 | 2018      | Diplômé de l'ESJ Lille + Sciences Po Lille   |
 | Eté 2017  | Localier Ouest-France (Finistère)            |
+| 2016/2017 | Pigiste Lui Président                        |
 | Eté 2016  | Stagiaire data Le Parisien                   |
 | 2014/2015 | Stagiaire El Mercurio de Antofagasta (Chili) |
 
