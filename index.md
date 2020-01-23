@@ -9,7 +9,7 @@
 
 |           |                                              |
 |:----------|:---------------------------------------------|
-| 2018/2019 | Journaliste à France 2                       |
+| 2018/2020 | Journaliste à France 2                       |
 | Août 2019 | Pigiste Mediapart                            |
 | 2017/2018 | Apprenti à l'Agence France Presse (AFP)      |
 | 2018      | Diplômé de l'ESJ Lille + Sciences Po Lille   |
@@ -22,9 +22,12 @@
 ## Portfolio
 
 ### France 2
+- [Municipales 2020 : comment une circulaire de C. Castaner pourrait embellir le score national de LREM](https://www.francetvinfo.fr/elections/municipales/resultats-du-ps/municipales-la-circulaire-de-christophe-castaner-qui-pourrait-avantager-lrem_3786331.html)
+- [Les écoles oubliées de l'éducation prioritaire](https://www.francetvinfo.fr/replay-jt/france-2/20-heures/video-les-ecoles-oubliees-de-l-education-prioritaire_3708691.html)
 - [Hauts fonctionnaires : le grand ménage promis par Emmanuel Macron n'a pas eu lieu](https://www.francetvinfo.fr/politique/emmanuel-macron/video-hauts-fonctionnaires-le-grand-menage-promis-par-emmanuel-macron-n-a-pas-eu-lieu_2934425.html)
 - [Comment un lobby opposé aux 80 km/h tente de s'inviter dans le grand débat](https://www.francetvinfo.fr/replay-jt/france-2/20-heures/video-quand-les-lobbys-tentent-de-s-inviter-dans-le-grand-debat_3175285.html)
 - [Déchets nucléaires : les millions d'euros qui irradient les villes près de Bure](https://www.francetvinfo.fr/replay-jt/france-2/20-heures/video-dechets-nucleaires-les-millions-d-euros-qui-irradient-les-villes-pres-de-bure_3110105.html)
+- [80 km/h : malgré une baisse des accidents, certains départements veulent augmenter la vitesse](https://www.francetvinfo.fr/societe/securite-routiere/limitation-de-la-vitesse-a-80-km-h/video-80-km-h-malgre-un-baisse-des-accidents-certains-departements-veulent-augmenter-la-vitesse_3691583.html)
 
 ### Mediapart
 - [Qwant, les parts d'ombre d'un moteur de recherche stratégique](https://www.mediapart.fr/journal/economie/270819/qwant-les-parts-d-ombre-d-un-moteur-de-recherche-strategique)
