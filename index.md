@@ -9,8 +9,8 @@
 
 |           |                                              |
 |:----------|:---------------------------------------------|
-| 2020 -    | Journaliste data - France Info               |
-| 2018/2020 | Journaliste data pour "L'Oeil du 20 heures" - France 2 |
+| 2020 -    | Journaliste - France Info                    |
+| 2018/2020 | Journaliste pour "L'Oeil du 20 heures" - France 2 |
 | Août 2019 | Pigiste Mediapart                            |
 | 2017/2018 | Apprenti à l'Agence France Presse (AFP)      |
 | 2018      | Diplômé de l'ESJ Lille + Sciences Po Lille   |
