@@ -22,6 +22,9 @@
 <br/><br/>
 ## Portfolio
 
+### France Info
+- [Dernières productions sur le site](https://www.francetvinfo.fr/journaliste/brice-le-borgne/)
+
 ### France 2 - "L'Oeil du 20 heures"
 - [Moins de pollution dans l'air mais davantage dans la mer : comment des milliers de bateaux s'adaptent à une nouvelle réglementation](https://www.francetvinfo.fr/monde/environnement/video-moins-de-pollution-dans-l-air-mais-davantage-dans-la-mer-comment-des-milliers-de-bateaux-s-adaptent-a-une-nouvelle-reglementation_3826101.html)
 - [Municipales 2020 : comment une circulaire de C. Castaner pourrait embellir le score national de LREM](https://www.francetvinfo.fr/elections/municipales/resultats-du-ps/municipales-la-circulaire-de-christophe-castaner-qui-pourrait-avantager-lrem_3786331.html)
