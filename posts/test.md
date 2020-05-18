@@ -1,9 +1,13 @@
 ---
 layout: post
-title: Ceci est un test
+title: Titre de l'article
 ---
 
 
-## test
+## Chapô de l'article
+
+blablabla
+blabla
+bla.
 
 ![image](/files/lettremodif2.png)
