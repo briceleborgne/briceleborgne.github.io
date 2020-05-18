@@ -41,3 +41,6 @@
 - [Mai 68 : la Nuit des Barricades](https://interactive.afp.com/graphics/Mai-68-le-recit-de-la-nuit-des-barricades_284/)
 - [Kutupalong, l'impasse des Rohingyas](https://interactive.afp.com/graphics/Kutupalong-limpasse-des-Rohingyas_249/)
 - [Qui sont les lauréats du prix Sakharov ?](https://interactive.afp.com/graphics/Qui-sont-les-laureats-du-prix-Sakharov-depuis-1988_242/)
+
+<br/><br/>
+- [this is a test](/blog/test.md)
