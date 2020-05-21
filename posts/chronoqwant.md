@@ -8,7 +8,7 @@ title: Chronologie Qwant
 
 A la suite de plusieurs révélations à l'été 2019, Qwant tente de renouveler sa structure interne et de maintenir son projet de moteur de recherche français. Pour comprendre combien la pente est difficile à remonter, et pour s'y retrouver dans le flot des articles sur le sujet, voici une chronologie non-exhaustive des révélations sur Qwant.
 
-## Les premières révélations de La Lettre A
+## Les premières publications de La Lettre A
 
 - [2 octobre 2018 (La Lettre A)](https://www.lalettrea.fr/entreprises_tech-et-telecoms/2018/10/02/qwant--le-moteur-franco-europeen-sous-perfusion-technique-de-microsoft,108326149-evl) : Qwant est toujours "sous perfusion technique de Microsoft". Le sujet est aussi abordé [ici](https://www.lalettrea.fr/entreprises_tech-et-telecoms/2018/10/29/qwant--comment-eric-leandri-fait-de-la-lutte-anti-google-un-business,108329761-ge0).
 

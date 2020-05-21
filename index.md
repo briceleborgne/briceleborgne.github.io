@@ -1,5 +1,6 @@
 ## Blog
 
+- [Qwant : La chronologie des révélations](https://briceleborgne.github.io/posts/chronoqwant.html)
 - [Une extention Chrome pour retrouver la vidéo originale d'un tweet](https://briceleborgne.github.io/posts/originvideo.html)
 
 <br/><br/>
