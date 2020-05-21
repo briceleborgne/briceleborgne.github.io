@@ -3,6 +3,7 @@ layout: post
 title: Chronologie Qwant
 ---
 
+
 # Qwant : la chronologie des révélations
 
 A la suite de plusieurs révélations à l'été 2019, Qwant tente de renouveler sa structure interne et de maintenir son projet de moteur de recherche français. Pour comprendre combien la pente est difficile à remonter, et pour s'y retrouver dans le flot des articles sur le sujet, voici une chronologie non-exhaustive des révélations sur Qwant.
@@ -14,7 +15,6 @@ A la suite de plusieurs révélations à l'été 2019, Qwant tente de renouveler
 - [29 novembre 2018 (La Lettre A)](https://www.lalettrea.fr/entreprises_tech-et-telecoms/2018/11/29/qwant-s-enfonce-dans-le-rouge,108334540-ar1) : Les résultats financiers ne sont pas bons, "Qwant s'enfonce dans le rouge"
 
 - [28 mars 2019 (La Lettre A)](https://www.lalettrea.fr/entreprises_tech-et-telecoms/2019/03/28/qwant--la-nasse-des-accusations-se-resserre-autour-d-eric-leandri,108351093-evl) : "La nasse des accusations se resserre autour d'Eric Leandri"
-
 
 ## A l'été 2019, les choses s'accélèrent
 
@@ -29,7 +29,6 @@ A la suite de plusieurs révélations à l'été 2019, Qwant tente de renouveler
 - [27 août 2019 (Mediapart)](https://www.mediapart.fr/journal/economie/270819/qwant-les-parts-d-ombre-d-un-moteur-de-recherche-strategique?page_article=1) : Eric Leandri a fait l'objet d'un mandat d'arrêt européen jusqu'en 2016. Condamné aussi en 2000 pour violences. Concernant Qwant, les doutes techniques et critiques pleuvent, y compris en interne.
 
 - [23 septembre 2020 (Next INpact)](https://www.nextinpact.com/news/108195-qwant-en-finir-avec-omerta.htm) : Jean-Marc Manach fait part des "pressions" dont il a fait l'objet lors de ses enquêtes sur Qwant.
-
 
 ## Dans le sillage
 
