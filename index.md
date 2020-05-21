@@ -1,13 +1,14 @@
+## Blog
+
+- [Une extention Chrome pour retrouver la vidéo originale d'un tweet](https://briceleborgne.github.io/posts/originvideo.html)
+
+<br/><br/>
 ## Me contater 
 - en DM sur [Twitter](http://www.twitter.com/BriceLeBorgne)
 - par ProtonMail : brice.leborgne@protonmail.com - [ma clé PGP publique est ici](/files/publickey.brice.leborgne@protonmail.com.asc)
 - par Ricochet (messagerie instantanée anonyme) ricochet:r67wawhpwdme7fhu
 - par messagerie chiffrée (Signal ou Telegram)
 
-<br/><br/>
-## Blog
-
-- [Une extention Chrome pour retrouver la vidéo originale d'un tweet](https://briceleborgne.github.io/posts/originvideo.html)
 
 <br/><br/>
 ## Parcours
