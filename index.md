@@ -31,6 +31,10 @@
 
 ### France Info
 - [Dernières productions sur le site](https://www.francetvinfo.fr/journaliste/brice-le-borgne/)
+- [Plongée dans les groupes Facebook pro-Raoult](https://www.francetvinfo.fr/sante/maladie/coronavirus/infographies-de-la-chloroquine-a-la-politique-on-a-passe-au-microscope-les-groupes-facebook-de-soutien-au-professeur-raoult_3940271.html)
+- [Coronavirus : pourquoi le refus d'aider les entreprises implantées dans des paradis fiscaux n'aura qu'un impact limité](https://www.francetvinfo.fr/economie/impots/exil-fiscal/coronavirus-pourquoi-le-refus-d-aider-les-entreprises-francaises-implantees-dans-des-paradis-fiscaux-n-aura-qu-un-impact-limite_3932461.html)
+- [Coronavirus : les populations défavorisées plus vulnérables face à l'épidémie](https://www.francetvinfo.fr/sante/maladie/coronavirus/infographies-coronavirus-les-populations-defavorisees-plus-vulnerables-face-a-l-epidemie_3917541.html)
+- [Réforme des retraites : plongée dans les 40 000 amendements qui paralysent l'Assemblée](https://www.francetvinfo.fr/economie/retraite/reforme-des-retraites/infographies-reforme-des-retraites-on-s-est-plonge-dans-les-40000-amendements-deposes-a-l-assemblee_3830241.html)
 
 ### France 2 - "L'Oeil du 20 heures"
 - [Moins de pollution dans l'air mais davantage dans la mer : comment des milliers de bateaux s'adaptent à une nouvelle réglementation](https://www.francetvinfo.fr/monde/environnement/video-moins-de-pollution-dans-l-air-mais-davantage-dans-la-mer-comment-des-milliers-de-bateaux-s-adaptent-a-une-nouvelle-reglementation_3826101.html)
