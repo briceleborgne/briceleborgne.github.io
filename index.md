@@ -5,6 +5,11 @@
 - par messagerie chiffrée (Signal ou Telegram)
 
 <br/><br/>
+## Blog
+
+- [Une extention Chrome pour retrouver la vidéo originale d'un tweet](https://briceleborgne.github.io/posts/originvideo.html)
+
+<br/><br/>
 ## Parcours
 
 |           |                                              |
