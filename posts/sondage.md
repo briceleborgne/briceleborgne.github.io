@@ -13,6 +13,10 @@ title: Sondage
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/2682389" data-url="https://flo.uri.sh/visualisation/2682389/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/2682464" data-url="https://flo.uri.sh/visualisation/2682464/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/2682477" data-url="https://flo.uri.sh/visualisation/2682477/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## Réponses des professionnels 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/2675777" data-url="https://flo.uri.sh/visualisation/2675777/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
