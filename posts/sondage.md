@@ -3,9 +3,9 @@ layout: post
 title: Sondage
 ---
 
-# Réponses au sondage sur le numérique
+# Les principaux résultats du sondage sur les besoins d'une plateforme éducative numérique
 
-
+366 personnes ont répondu au sondage "Plateforme internet avec outils pour enseignants, éducateurs et parents pour la réussite de tous". Voici, question par question, les principaux résultats.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/2675777" data-url="https://flo.uri.sh/visualisation/2675777/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
