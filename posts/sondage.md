@@ -1,3 +1,8 @@
+---
+layout: post
+title: Sondage
+---
+
 # Réponses au sondage sur le numérique
 
 [Consulter ce graphique en plein écran](https://public.flourish.studio/visualisation/2674862/)
