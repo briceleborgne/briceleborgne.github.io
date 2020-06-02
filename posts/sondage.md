@@ -5,7 +5,9 @@ title: Sondage
 
 # Les principaux résultats du sondage sur les besoins d'une plateforme éducative numérique
 
-366 personnes ont répondu au sondage "Plateforme internet avec outils pour enseignants, éducateurs et parents pour la réussite de tous". Voici, question par question, les principaux résultats.
+366 personnes ont répondu au sondage "Plateforme internet avec outils pour enseignants, éducateurs et parents pour la réussite de tous".
+
+<br/><br/>
 
 ## Réponses des parents d'élèves
 
@@ -13,9 +15,11 @@ title: Sondage
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/2682389" data-url="https://flo.uri.sh/visualisation/2682389/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/2682464" data-url="https://flo.uri.sh/visualisation/2682464/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/2682597" data-url="https://flo.uri.sh/visualisation/2682597/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/2682477" data-url="https://flo.uri.sh/visualisation/2682477/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<br/><br/>
 
 ## Réponses des professionnels 
 
@@ -25,11 +29,9 @@ title: Sondage
 <div class="flourish-embed flourish-chart" data-src="visualisation/2675836" data-url="https://flo.uri.sh/visualisation/2675836/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br/>
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/2676795" data-url="https://flo.uri.sh/visualisation/2676795/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/2682464" data-url="https://flo.uri.sh/visualisation/2682464/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <br/><br/>
-
-## Une plateforme numérique vous serait utile pour ...
 
 ### Comment lire cette infographie ?
 
