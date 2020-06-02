@@ -7,6 +7,14 @@ title: Sondage
 
 366 personnes ont répondu au sondage "Plateforme internet avec outils pour enseignants, éducateurs et parents pour la réussite de tous". Voici, question par question, les principaux résultats.
 
+## Réponses des parents d'élèves
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/2682354" data-url="https://flo.uri.sh/visualisation/2682354/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/2682389" data-url="https://flo.uri.sh/visualisation/2682389/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Réponses des professionnels 
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/2675777" data-url="https://flo.uri.sh/visualisation/2675777/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <br/>
 
