@@ -1,5 +1,6 @@
 ## Blog
 
+- [Covid-19 : un tableau de bord rudimentaire pour suivre la campagne de vaccination en France](https://briceleborgne.github.io/posts/coronavaccin_publish.html)
 - [Qwant : La chronologie des révélations](https://briceleborgne.github.io/posts/chronoqwant.html)
 - [Une extention Chrome pour retrouver la vidéo originale d'un tweet](https://briceleborgne.github.io/posts/originvideo.html)
 
