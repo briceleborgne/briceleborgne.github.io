@@ -8,26 +8,17 @@ title: Does this person exist ?
 
 ## A quoi ça sert
 
-Sur Twitter, il arrive qu'une personne repartage une vidéo, en "citant" la vidéo originale. Par exemple : 
+Depuis un moment maintenant, des faux comptes Twitter utilisent pour leur photo de profil le site http://thispersondoesnotexist.com, qui génère des images de visages qui n'existent pas. Le phénomène, qui n'est pas nouveau, a pu être évoqué [ici](https://twitter.com/AntoineBondaz/status/1471190807369719819) ou [ici](https://twitter.com/VictorBaissait/status/1454854928443269121). J'ai donc bricolé [un compte Twitter](https://twitter.com/DoesThisPerson) pour tenter de les détecter.
 
-![tweet Booba](/files/originvideo/booba.png)
+## Comment ça marche
 
-Le problème que cela peut poser, c'est que le tweet original, qui est cité, peut remonter à bien longtemps avant le retweet en question, et il est difficile de le savoir. Par exemple, cette vidéo de David Dufresne dénonce un cas de violences policières. Le tweet initial de DavDuf date de février 2019, mais elle a été repartagée en masse, dont par lolo91, en janvier 2020, en laissant suffisamment de doute pour qu'on pense que les faits sont récents.
+L'avantage de http://thispersondoesnotexist.com (TPDNE), c'est que leur algo positionne les yeux toujours à peu près au même endroit. Le principe du bot est donc simple : vous lui tweetez une image, il analyse la position des yeux, et s'ils sont localisés à des coordonnées x et y comprises dans une fourchette (établie à partir d'un échantillon de TPDNE), il répond qu'il est probable que l'image vienne de ce site.
 
-![tweet DavDuf](/files/originvideo/davduf.png)
+Et [ça se passe ici](https://twitter.com/DoesThisPerson).
 
-Or, pour retrouver le tweet de David Dufrene, dans lequel la vidéo originale a d'abord été partagée, Twitter ne nous facilite pas la tâche. Il faut cliquer sur le profil de David Dufresne, et scroller sa timeline jusqu'à retrouver la vidéo en question. Ce qui peut être très long.
-
-C'est là que l'extension intervient. Début décembre 2019, Jane Manchun Wong a indiqué [une manip' simple](https://twitter.com/wongmjane/status/1202293089395568640) pour retrouver le tweet initial. J'ai juste récuépré son bout de code pour en faire une extension, pour qu'en un clic ça soit réglé.
-
-![Gif exemple](/files/originvideo/exemple.gif)
-
-## Comment l'installer
-
-Pour installer l'extension, il suffit d'aller sur le [repo Github correspondant](https://github.com/briceleborgne/OriginVideo). Téléchargez le dossier ZIP, dézippez le tout dans un dossier en local. Puis dans chrome, allez dans "Extensions", activez le mode développeur. Cliquez sur "chargez l'extension non empaquetée", sélectionnez le bon dossier en local, et zou.
-
-![Github](/files/originvideo/github.png)
 
 ## Attention
 
-Contrairement à ce que certaines personnes ont cru, cette extension n'est d'aucune utilité si l'on cherche à savoir qui a posté les images en premier. Ca n'est pas du tout une recherche inversée, en gros. Mais malgré tout, ça reste un minimum utile.
+Il y a de nombreuses limites (impossible d'être sûr à 100% ; certaines images de TPDNE peuvent échapper à l'algo ; on peut facilement tromper le bot...), et il y a sûrement des réglages à faire. J'ai surtout fait ce bot pour expérimenter et essayer de nouvelles librairies (dlib pour la détection des éléments du visage, tweepy pour le bot Twitter).
+
+Depuis, j'ai vu passer différents outils très probablement plus performants, comme [cette extension Chrome](https://twitter.com/OSINTtechniques/status/1508310343927402503).
