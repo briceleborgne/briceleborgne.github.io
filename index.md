@@ -17,7 +17,7 @@
 
 |           |                                              |
 |:----------|:---------------------------------------------|
-| 2020 -    | Journaliste - France Info                    |
+| 2020 -    | Journaliste - franceinfo.fr                    |
 | 2018/2020 | Journaliste pour "L'Oeil du 20 heures" - France 2 |
 | Août 2019 | Pigiste Mediapart                            |
 | 2017/2018 | Apprenti à l'Agence France Presse (AFP)      |
@@ -30,7 +30,7 @@
 <br/><br/>
 ## Portfolio
 
-### France Info
+### franceinfo.fr
 - [Dernières productions sur le site](https://www.francetvinfo.fr/journaliste/brice-le-borgne/)
 - [Présidentielle 2022 : invectives, cacophonie... Visualisez comment les débats d'entre-deux-tours sont devenus inaudibles](https://www.francetvinfo.fr/elections/presidentielle/infographies-election-presidentielle-invectives-cacophonie-visualisez-comment-les-debats-d-entre-deux-tours-sont-devenus-inaudibles_5090062.html)
 - [Présidentielle 2022 : six cartes et graphiques pour tout comprendre au premier tour](https://www.francetvinfo.fr/elections/presidentielle/infographies-presidentielle-2022-six-cartes-et-graphiques-pour-comprendre-les-resultats-du-premier-tour_5077696.html)
