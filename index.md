@@ -1,5 +1,6 @@
 ## Blog
 
+- [Un bot pour transmettre par mail les stories Instagram d'un ami](https://briceleborgne.github.io/posts/instabot.html)
 - [Un compte Twitter pour savoir si une photo de profil est (potentiellement) issue de thispersondoesnotexist.com](https://briceleborgne.github.io/posts/doesthisperson.html)
 - [Qwant : La chronologie des révélations](https://briceleborgne.github.io/posts/chronoqwant.html)
 - [Une extention Chrome pour retrouver la vidéo originale d'un tweet](https://briceleborgne.github.io/posts/originvideo.html)
