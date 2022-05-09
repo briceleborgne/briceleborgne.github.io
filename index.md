@@ -1,6 +1,6 @@
 ## Blog
 
-- [Un compte Twitter pour savoir si une photo de profil est (potentiellement) issue de thispersondoesnotexist.com] (https://briceleborgne.github.io/posts/doesthisperson.html)
+- [Un compte Twitter pour savoir si une photo de profil est (potentiellement) issue de thispersondoesnotexist.com](https://briceleborgne.github.io/posts/doesthisperson.html)
 - [Qwant : La chronologie des révélations](https://briceleborgne.github.io/posts/chronoqwant.html)
 - [Une extention Chrome pour retrouver la vidéo originale d'un tweet](https://briceleborgne.github.io/posts/originvideo.html)
 
@@ -32,6 +32,18 @@
 
 ### France Info
 - [Dernières productions sur le site](https://www.francetvinfo.fr/journaliste/brice-le-borgne/)
+- [Présidentielle 2022 : invectives, cacophonie... Visualisez comment les débats d'entre-deux-tours sont devenus inaudibles](https://www.francetvinfo.fr/elections/presidentielle/infographies-election-presidentielle-invectives-cacophonie-visualisez-comment-les-debats-d-entre-deux-tours-sont-devenus-inaudibles_5090062.html)
+- [Présidentielle 2022 : six cartes et graphiques pour tout comprendre au premier tour](https://www.francetvinfo.fr/elections/presidentielle/infographies-presidentielle-2022-six-cartes-et-graphiques-pour-comprendre-les-resultats-du-premier-tour_5077696.html)
+- [Guerre en Ukraine : quel bilan, un mois après le début de l'offensive de l'armée russe ?](https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/infographies-guerre-en-ukraine-quel-bilan-un-mois-apres-le-debut-de-l-offensive-de-l-armee-russe_5038826.html)
+- [Osint. Conflit Russie-Ukraine : retour sur une journée d'offensive russe filmée par les Ukrainiens](https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/en-images-guerre-en-ukraine-une-journee-d-offensive-russe-filmee-par-les-ukrainiens_4979244.html)
+- [Osint. Les images qui prouvent la militarisation inédite de la frontière russo-ukrainienne](https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/videos-ukraine-prises-depuis-un-satellite-ou-au-sol-ces-images-devoilent-l-intense-activite-militaire-russe-a-la-frontiere_4879579.html)
+- [En partenariat avec 'Complément d'Enquête'. Pourquoi les pénuries de médicaments ont pris de l'ampleur en France](https://www.francetvinfo.fr/sante/medicament/infographies-penuries-de-medicaments-un-phenomene-qui-prend-de-l-ampleur-decrypte-en-cinq-graphiques_4762875.html)
+- [Témoignages. Le moral à la dérive des marins bloqués en mer à cause de la crise sanitaire](https://www.francetvinfo.fr/sante/maladie/coronavirus/covid-19-le-moral-a-la-derive-des-marins-bloques-en-mer-a-cause-de-la-crise-sanitaire_4363047.html)
+- [Covid & enquête. Un an après, que sont devenus les 10 000 respirateurs commandés par le gouvernement ?](https://www.francetvinfo.fr/sante/maladie/coronavirus/covid-19-un-an-apres-que-sont-devenus-les-10-000-respirateurs-commandes-par-le-gouvernement_4346601.html)
+- [Osint & enquête. Comment Génération identitaire a "berné" des propriétaires pour organiser leurs camps d'été](https://www.francetvinfo.fr/france/enquete-franceinfo-comment-generation-identitaire-a-berne-des-proprietaires-pour-organiser-ses-camps-d-ete_4319707.html)
+- [Scrapping & infographies. Quelle place pour les commerçants français sur Amazon ?](https://www.francetvinfo.fr/internet/amazon/infographies-quelle-place-pour-les-commercants-francais-sur-amazon_4205491.html)
+- [Covid-19 : on a relevé les taux de CO2 dans des écoles, des transports, des commerces et des lieux publics](https://www.francetvinfo.fr/sante/maladie/coronavirus/infographies-risques-d-exposition-au-covid-19-cinema-transports-ecoles-on-a-teste-les-capteurs-de-co2-dans-plusieurs-lieux-publics_4769745.html)
+- [Enquête. Dans les coulisses des données très stratégiques sur le Covid-19](https://www.francetvinfo.fr/sante/maladie/coronavirus/urgence-cafouillages-mille-feuille-d-indicateurs-dans-les-coulisses-des-donnees-tres-strategiques-sur-le-covid-19_4099757.html)
 - [Plongée dans les groupes Facebook pro-Raoult](https://www.francetvinfo.fr/sante/maladie/coronavirus/infographies-de-la-chloroquine-a-la-politique-on-a-passe-au-microscope-les-groupes-facebook-de-soutien-au-professeur-raoult_3940271.html)
 - [Coronavirus : pourquoi le refus d'aider les entreprises implantées dans des paradis fiscaux n'aura qu'un impact limité](https://www.francetvinfo.fr/economie/impots/exil-fiscal/coronavirus-pourquoi-le-refus-d-aider-les-entreprises-francaises-implantees-dans-des-paradis-fiscaux-n-aura-qu-un-impact-limite_3932461.html)
 - [Coronavirus : les populations défavorisées plus vulnérables face à l'épidémie](https://www.francetvinfo.fr/sante/maladie/coronavirus/infographies-coronavirus-les-populations-defavorisees-plus-vulnerables-face-a-l-epidemie_3917541.html)
