@@ -1,5 +1,6 @@
 ## Blog
 
+- [Circloflex](https://twitter.com/circoflex2022), un bot Twitter pour publier automatiquement les résultats des élections législatives 2022
 - [Un bot pour transmettre par mail les stories Instagram d'un ami](https://briceleborgne.github.io/posts/instabot.html)
 - [Un compte Twitter pour savoir si une photo de profil est (potentiellement) issue de thispersondoesnotexist.com](https://briceleborgne.github.io/posts/doesthisperson.html)
 - [Qwant : La chronologie des révélations](https://briceleborgne.github.io/posts/chronoqwant.html)
