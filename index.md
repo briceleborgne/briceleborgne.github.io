@@ -77,4 +77,4 @@
 - [Kutupalong, l'impasse des Rohingyas](https://interactive.afp.com/graphics/Kutupalong-limpasse-des-Rohingyas_249/)
 - [Qui sont les lauréats du prix Sakharov ?](https://interactive.afp.com/graphics/Qui-sont-les-laureats-du-prix-Sakharov-depuis-1988_242/)
 
-\textcolor{red}{red}, violets are \textcolor{blue}{blue}
+<span style="background-color:green">Mrs. Robinson</span>
