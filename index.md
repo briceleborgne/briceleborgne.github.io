@@ -1,8 +1,10 @@
 ## Blog
 
+
+- [EnergieBot](https://twitter.com/energiebot), un bot Twitter pour publier automatiquement plusieurs graphiques et indicateurs liés à la production et la consommation d'énergie en France.
+- [Un compte Twitter pour savoir si une photo de profil est (potentiellement) issue de thispersondoesnotexist.com](https://briceleborgne.github.io/posts/doesthisperson.html)
 - [Circloflex](https://twitter.com/circoflex2022), un bot Twitter pour publier automatiquement les résultats des élections législatives 2022
 - [Un bot pour transmettre par mail les stories Instagram d'un ami](https://briceleborgne.github.io/posts/instabot.html)
-- [Un compte Twitter pour savoir si une photo de profil est (potentiellement) issue de thispersondoesnotexist.com](https://briceleborgne.github.io/posts/doesthisperson.html)
 - [Qwant : La chronologie des révélations](https://briceleborgne.github.io/posts/chronoqwant.html)
 - [Une extention Chrome pour retrouver la vidéo originale d'un tweet](https://briceleborgne.github.io/posts/originvideo.html)
 
@@ -34,6 +36,13 @@
 
 ### franceinfo.fr
 - [Dernières productions sur le site](https://www.francetvinfo.fr/journaliste/brice-le-borgne/)
+- [Enquête & Osint. Carte vitale, vignette Crit'air, livraison de colis... Dans les coulisses des arnaques par SMS, des escroqueries en kit montées par des voleurs parfois adolescents](https://www.francetvinfo.fr/internet/securite-sur-internet/enquete-franceinfo-carte-vitale-vignette-crit-air-livraison-de-colis-derriere-les-arnaques-par-sms-des-escroqueries-en-kit-montees-par-des-voleurs-parfois-adolescents_5660423.html)
+- [Data & climat. Sécheresse : suivez en temps réel le niveau des nappes phréatiques et des cours d'eau en France](https://www.francetvinfo.fr/meteo/secheresse/cartes-secheresse-suivez-en-temps-reel-le-niveau-des-nappes-phreatiques-et-des-cours-d-eau-en-france_5846957.html)
+- [Coprod "Vert de rage". Amiante : votre école fait-elle partie des milliers d'établissements encore concernés, plus de 25 ans après l'interdiction ?](https://www.francetvinfo.fr/sante/affaires/scandale-de-l-amiante/infographies-amiante-votre-ecole-fait-elle-partie-des-milliers-d-etablissements-encore-concernes-20-ans-apres-l-interdiction_5861165.html)
+- [Coprod "Vert de rage". Pollution dans le métro parisien : découvrez les mesures inédites de la qualité de l'air dans votre station](https://www.francetvinfo.fr/monde/environnement/crise-climatique/pollution-air/enquete-france-tv-pollution-dans-le-metro-parisien-decouvrez-les-mesures-inedites-de-la-qualite-de-l-air-dans-votre-station_5815343.html)
+- [Cartographie & data. Long format : De Kiev à Bakhmout, un an sous les bombes](https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/un-an-de-guerre-en-ukraine-grand-recit-kiev-bakhmout-marioupol-zaporijjia.html)
+- [En Arabie saoudite, The Line, ville futuriste et controversée du projet Neom, est déjà visible depuis le ciel](https://www.francetvinfo.fr/monde/moyen-orient/en-images-arabie-saoudite-the-line-ville-futuriste-et-controversee-du-projet-neom-est-deja-visible-depuis-le-ciel_5530041.html)
+- [Coprod "Complément d'enquête". Ce que l'on sait des résidus de pesticides dans l'eau du robinet de milliers de communes (et des incertitudes sur leur toxicité)](https://www.francetvinfo.fr/sante/environnement-et-sante/infographies-ce-que-l-on-sait-des-residus-de-pesticides-dans-l-eau-du-robinet-de-milliers-de-communes-et-des-incertitudes-sur-leur-toxicite_5360212.html)
 - [Présidentielle 2022 : invectives, cacophonie... Visualisez comment les débats d'entre-deux-tours sont devenus inaudibles](https://www.francetvinfo.fr/elections/presidentielle/infographies-election-presidentielle-invectives-cacophonie-visualisez-comment-les-debats-d-entre-deux-tours-sont-devenus-inaudibles_5090062.html)
 - [Présidentielle 2022 : six cartes et graphiques pour tout comprendre au premier tour](https://www.francetvinfo.fr/elections/presidentielle/infographies-presidentielle-2022-six-cartes-et-graphiques-pour-comprendre-les-resultats-du-premier-tour_5077696.html)
 - [Guerre en Ukraine : quel bilan, un mois après le début de l'offensive de l'armée russe ?](https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/infographies-guerre-en-ukraine-quel-bilan-un-mois-apres-le-debut-de-l-offensive-de-l-armee-russe_5038826.html)
@@ -67,3 +76,5 @@
 - [Mai 68 : la Nuit des Barricades](https://interactive.afp.com/graphics/Mai-68-le-recit-de-la-nuit-des-barricades_284/)
 - [Kutupalong, l'impasse des Rohingyas](https://interactive.afp.com/graphics/Kutupalong-limpasse-des-Rohingyas_249/)
 - [Qui sont les lauréats du prix Sakharov ?](https://interactive.afp.com/graphics/Qui-sont-les-laureats-du-prix-Sakharov-depuis-1988_242/)
+
+\textcolor{red}{red}, violets are \textcolor{blue}{blue}
