@@ -1,14 +1,4 @@
-## Blog
 
-
-- [EnergieBot](https://twitter.com/energiebot), un bot Twitter pour publier automatiquement plusieurs graphiques et indicateurs liés à la production et la consommation d'énergie en France.
-- [Un compte Twitter pour savoir si une photo de profil est (potentiellement) issue de thispersondoesnotexist.com](https://briceleborgne.github.io/posts/doesthisperson.html)
-- [Circloflex](https://twitter.com/circoflex2022), un bot Twitter pour publier automatiquement les résultats des élections législatives 2022
-- [Un bot pour transmettre par mail les stories Instagram d'un ami](https://briceleborgne.github.io/posts/instabot.html)
-- [Qwant : La chronologie des révélations](https://briceleborgne.github.io/posts/chronoqwant.html)
-- [Une extention Chrome pour retrouver la vidéo originale d'un tweet](https://briceleborgne.github.io/posts/originvideo.html)
-
-<br/><br/>
 ## Me contater 
 - en DM sur [Twitter](http://www.twitter.com/BriceLeBorgne)
 - par ProtonMail : brice.leborgne@protonmail.com - [ma clé PGP publique est ici](/files/publickey.brice.leborgne@protonmail.com.asc)
@@ -32,6 +22,19 @@
 | 2014/2015 | Stagiaire El Mercurio de Antofagasta (Chili) |
 
 <br/><br/>
+
+## Blog
+
+
+- [EnergieBot](https://twitter.com/energiebot), un bot Twitter pour publier automatiquement plusieurs graphiques et indicateurs liés à la production et la consommation d'énergie en France.
+- [Un compte Twitter pour savoir si une photo de profil est (potentiellement) issue de thispersondoesnotexist.com](https://briceleborgne.github.io/posts/doesthisperson.html)
+- [Circloflex](https://twitter.com/circoflex2022), un bot Twitter pour publier automatiquement les résultats des élections législatives 2022
+- [Un bot pour transmettre par mail les stories Instagram d'un ami](https://briceleborgne.github.io/posts/instabot.html)
+- [Qwant : La chronologie des révélations](https://briceleborgne.github.io/posts/chronoqwant.html)
+- [Une extention Chrome pour retrouver la vidéo originale d'un tweet](https://briceleborgne.github.io/posts/originvideo.html)
+
+<br/><br/>
+
 ## Portfolio
 
 ### franceinfo.fr
