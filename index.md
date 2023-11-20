@@ -1,5 +1,5 @@
 
-## Me contater 
+## Me contacter 
 - en DM sur [Twitter](http://www.twitter.com/BriceLeBorgne)
 - par ProtonMail : brice.leborgne@protonmail.com - [ma clé PGP publique est ici](/files/publickey.brice.leborgne@protonmail.com.asc)
 - par messagerie chiffrée (Signal ou Telegram)
