@@ -11,7 +11,8 @@
 
 |           |                                              |
 |:----------|:---------------------------------------------|
-| 2020 -    | Journaliste - franceinfo.fr                    |
+| 2023 -    | Journaliste - Complément d'Enquête           |
+| 2020 -    | Journaliste - franceinfo.fr                  |
 | 2020 -    | Formateur en journalisme de données et enquête en source ouverte - ESJ Lille, CFJ Paris |
 | 2018/2020 | Journaliste pour "L'Oeil du 20 heures" - France 2 |
 | Août 2019 | Pigiste Mediapart                            |
@@ -40,6 +41,7 @@
 
 ### franceinfo.fr
 - [Dernières productions sur le site](https://www.francetvinfo.fr/journaliste/brice-le-borgne/)
+- <span style="background-color:#90d39c; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Collab avec "Complément d'Enquête"</strong></span> [Comment les sanctions de l'Arcom contre C8 et Cyril Hanouna se sont évaporées des sites de "Télé-Loisirs", "Voici" ou "Gala" après leur rachat par Vincent Bolloré](https://www.francetvinfo.fr/culture/tv/cyril-hanouna/infographie-comment-les-sanctions-de-l-arcom-contre-c8-et-cyril-hanouna-se-sont-evaporees-des-sites-de-tele-loisirs-voici-ou-gala-apres-leur-rachat-par-vincent-bollore_6209427.html)
 - <span style="background-color:#f38f7f; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Enquête & Osint</strong></span> [ Carte vitale, vignette Crit'air, livraison de colis... Dans les coulisses des arnaques par SMS, des escroqueries en kit montées par des voleurs parfois adolescents](https://www.francetvinfo.fr/internet/securite-sur-internet/enquete-franceinfo-carte-vitale-vignette-crit-air-livraison-de-colis-derriere-les-arnaques-par-sms-des-escroqueries-en-kit-montees-par-des-voleurs-parfois-adolescents_5660423.html)
 - <span style="background-color:#63a4dd; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Data</strong></span> [ Sécheresse : suivez en temps réel le niveau des nappes phréatiques et des cours d'eau en France](https://www.francetvinfo.fr/meteo/secheresse/cartes-secheresse-suivez-en-temps-reel-le-niveau-des-nappes-phreatiques-et-des-cours-d-eau-en-france_5846957.html)
 - <span style="background-color:#90d39c; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Collab avec "Vert de rage"</strong></span> [Amiante : votre école fait-elle partie des milliers d'établissements encore concernés, plus de 25 ans après l'interdiction ?](https://www.francetvinfo.fr/sante/affaires/scandale-de-l-amiante/infographies-amiante-votre-ecole-fait-elle-partie-des-milliers-d-etablissements-encore-concernes-20-ans-apres-l-interdiction_5861165.html)
