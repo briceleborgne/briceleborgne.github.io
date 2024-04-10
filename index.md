@@ -22,7 +22,7 @@
 ## Compétences
 <span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Scrapping</strong></span>
 - Python (selenium, bs4), webscraper.io, ...
-- [Comment les sanctions de l'Arcom contre C8 et Cyril Hanouna se sont évaporées des sites de "Télé-Loisirs", "Voici" ou "Gala" après leur rachat par Vincent Bolloré (franceinfo)](https://www.francetvinfo.fr/culture/tv/cyril-hanouna/infographie-comment-les-sanctions-de-l-arcom-contre-c8-et-cyril-hanouna-se-sont-evaporees-des-sites-de-tele-loisirs-voici-ou-gala-apres-leur-rachat-par-vincent-bollore_6209427.html)
+- [Comment les sanctions de l'Arcom contre C8 et Cyril Hanouna se sont évaporées des sites de "Télé-Loisirs", "Voici" ou "Gala" après leur rachat par Vincent Bolloré (Complément d'Enquête)](https://www.francetvinfo.fr/culture/tv/cyril-hanouna/infographie-comment-les-sanctions-de-l-arcom-contre-c8-et-cyril-hanouna-se-sont-evaporees-des-sites-de-tele-loisirs-voici-ou-gala-apres-leur-rachat-par-vincent-bollore_6209427.html)
 
 <span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Recours à des API</strong></span>
 - Python, R
@@ -34,10 +34,11 @@
 
 <span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Infographies</strong></span>
 - R (ggplot), Flourish, Datawrapper
+- [Crise de l'énergie : les centrales nucléaires françaises vont-elles redémarrer à temps pour l'hiver ? (franceinfo)](https://www.francetvinfo.fr/economie/energie/infographies-crise-de-l-energie-les-centrales-nucleaires-francaises-vont-elles-redemarrer-a-temps-pour-l-hiver_5476242.html)
 
 <span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Cartographie</strong></span>
 - Qgis, R, Flourish
-- [Présidentielle 2022 : trois cartes pour visualiser la progression inédite de Marine Le Pen](https://www.francetvinfo.fr/elections/presidentielle/resultats-presidentielle-2022-trois-cartes-pour-visualiser-la-progression-de-marine-le-pen_5101561.html)
+- [Présidentielle 2022 : trois cartes pour visualiser la progression inédite de Marine Le Pen (franceinfo)](https://www.francetvinfo.fr/elections/presidentielle/resultats-presidentielle-2022-trois-cartes-pour-visualiser-la-progression-de-marine-le-pen_5101561.html)
 
 <span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Investigations numériques</strong></span>
 - Virustotal, SecurityTrails, Builtwith...
@@ -50,7 +51,7 @@
 
 <span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Analyse d'images satellite</strong></span>
 - SentinelHub, outils de la Nasa...
-- [En Arabie saoudite, The Line, ville futuriste et controversée du projet Neom, est déjà visible depuis le ciel](https://www.francetvinfo.fr/monde/moyen-orient/en-images-arabie-saoudite-the-line-ville-futuriste-et-controversee-du-projet-neom-est-deja-visible-depuis-le-ciel_5530041.html)
+- [En Arabie saoudite, The Line, ville futuriste et controversée du projet Neom, est déjà visible depuis le ciel (franceinfo)](https://www.francetvinfo.fr/monde/moyen-orient/en-images-arabie-saoudite-the-line-ville-futuriste-et-controversee-du-projet-neom-est-deja-visible-depuis-le-ciel_5530041.html)
 
 <span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Développement de scripts d'aide à l'investigation</strong></span>
 - OCR (pytesseract), speech-to-text (whisper), métadonnées (exiftool), analyse d'images (opencv)...
