@@ -20,12 +20,27 @@
 
 ## Compétences
 <span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Scrapping</strong></span>
-- test
-- [Comment les sanctions de l'Arcom contre C8 et Cyril Hanouna se sont évaporées des sites de "Télé-Loisirs", "Voici" ou "Gala" après leur rachat par Vincent Bolloré](https://www.francetvinfo.fr/culture/tv/cyril-hanouna/infographie-comment-les-sanctions-de-l-arcom-contre-c8-et-cyril-hanouna-se-sont-evaporees-des-sites-de-tele-loisirs-voici-ou-gala-apres-leur-rachat-par-vincent-bollore_6209427.html)
+- Python (selenium, bs4), webscraper.io, ...
+- [Comment les sanctions de l'Arcom contre C8 et Cyril Hanouna se sont évaporées des sites de "Télé-Loisirs", "Voici" ou "Gala" après leur rachat par Vincent Bolloré (franceinfo)](https://www.francetvinfo.fr/culture/tv/cyril-hanouna/infographie-comment-les-sanctions-de-l-arcom-contre-c8-et-cyril-hanouna-se-sont-evaporees-des-sites-de-tele-loisirs-voici-ou-gala-apres-leur-rachat-par-vincent-bollore_6209427.html)
 
 <span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Recours à des API</strong></span>
+- Python, R
+- [Suivez en temps réel le niveau des nappes phréatiques et des cours d'eau en France (franceinfo)](https://www.francetvinfo.fr/meteo/secheresse/cartes-secheresse-suivez-en-temps-reel-le-niveau-des-nappes-phreatiques-et-des-cours-d-eau-en-france_5846957.html)
 
 <span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Analyse de données</strong></span>
+- Essentiellement R, tableurs...
+- [Ce que l'on sait des résidus de pesticides dans l'eau du robinet de milliers de communes (et des incertitudes sur leur toxicité) (Complément d'Enquête)](https://www.francetvinfo.fr/sante/environnement-et-sante/infographies-ce-que-l-on-sait-des-residus-de-pesticides-dans-l-eau-du-robinet-de-milliers-de-communes-et-des-incertitudes-sur-leur-toxicite_5360212.html)
+
+<span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Infographies</strong></span>
+- R (ggplot), Flourish, Datawrapper
+
+<span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Cartographie</strong></span>
+- Qgis, R, Flourish
+- [Présidentielle 2022 : trois cartes pour visualiser la progression inédite de Marine Le Pen](https://www.francetvinfo.fr/elections/presidentielle/resultats-presidentielle-2022-trois-cartes-pour-visualiser-la-progression-de-marine-le-pen_5101561.html)
+
+<span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Investigations numériques</strong></span>
+- Virustotal, SecurityTrails, Builtwith...
+- Sherlock, Osint.industries, Predictasearch...
 
 ## Portfolio
 
