@@ -1,7 +1,6 @@
 
 
 ## Parcours
-
 |           |                                              |
 |:----------|:---------------------------------------------|
 | 2023 -    | Journaliste - Complément d'Enquête           |
@@ -18,17 +17,14 @@
 
 <br/><br/>
 
-## Blog
+## Compétences  
+<span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Scrapping</strong></span>
+- test
+- [Comment les sanctions de l'Arcom contre C8 et Cyril Hanouna se sont évaporées des sites de "Télé-Loisirs", "Voici" ou "Gala" après leur rachat par Vincent Bolloré](https://www.francetvinfo.fr/culture/tv/cyril-hanouna/infographie-comment-les-sanctions-de-l-arcom-contre-c8-et-cyril-hanouna-se-sont-evaporees-des-sites-de-tele-loisirs-voici-ou-gala-apres-leur-rachat-par-vincent-bollore_6209427.html)
 
+<span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Recours à des API</strong></span>
 
-- [EnergieBot](https://twitter.com/energiebot), un bot Twitter pour publier automatiquement plusieurs graphiques et indicateurs liés à la production et la consommation d'énergie en France.
-- [Un compte Twitter pour savoir si une photo de profil est (potentiellement) issue de thispersondoesnotexist.com](https://briceleborgne.github.io/posts/doesthisperson.html)
-- [Circloflex](https://twitter.com/circoflex2022), un bot Twitter pour publier automatiquement les résultats des élections législatives 2022
-- [Un bot pour transmettre par mail les stories Instagram d'un ami](https://briceleborgne.github.io/posts/instabot.html)
-- [Qwant : La chronologie des révélations](https://briceleborgne.github.io/posts/chronoqwant.html)
-- [Une extention Chrome pour retrouver la vidéo originale d'un tweet](https://briceleborgne.github.io/posts/originvideo.html)
-
-<br/><br/>
+<span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Analyse de données</strong></span>
 
 ## Portfolio
 
@@ -76,3 +72,17 @@
 - [Kutupalong, l'impasse des Rohingyas](https://interactive.afp.com/graphics/Kutupalong-limpasse-des-Rohingyas_249/)
 - [Qui sont les lauréats du prix Sakharov ?](https://interactive.afp.com/graphics/Qui-sont-les-laureats-du-prix-Sakharov-depuis-1988_242/)
 
+
+
+
+## Blog
+
+
+- [EnergieBot](https://twitter.com/energiebot), un bot Twitter pour publier automatiquement plusieurs graphiques et indicateurs liés à la production et la consommation d'énergie en France.
+- [Un compte Twitter pour savoir si une photo de profil est (potentiellement) issue de thispersondoesnotexist.com](https://briceleborgne.github.io/posts/doesthisperson.html)
+- [Circloflex](https://twitter.com/circoflex2022), un bot Twitter pour publier automatiquement les résultats des élections législatives 2022
+- [Un bot pour transmettre par mail les stories Instagram d'un ami](https://briceleborgne.github.io/posts/instabot.html)
+- [Qwant : La chronologie des révélations](https://briceleborgne.github.io/posts/chronoqwant.html)
+- [Une extention Chrome pour retrouver la vidéo originale d'un tweet](https://briceleborgne.github.io/posts/originvideo.html)
+
+<br/><br/>
