@@ -17,6 +17,7 @@
 | 2014/2015 | Stagiaire El Mercurio de Antofagasta (Chili) |
 
 <br/><br/>
+<br/><br/>
 
 ## Compétences
 <span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Scrapping</strong></span>
@@ -41,6 +42,24 @@
 <span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Investigations numériques</strong></span>
 - Virustotal, SecurityTrails, Builtwith...
 - Sherlock, Osint.industries, Predictasearch...
+- [Carte vitale, vignette Crit'air, livraison de colis... Derrière les arnaques par SMS, des escroqueries en kit montées par des voleurs parfois adolescents (franceinfo)](https://www.francetvinfo.fr/internet/securite-sur-internet/enquete-franceinfo-carte-vitale-vignette-crit-air-livraison-de-colis-derriere-les-arnaques-par-sms-des-escroqueries-en-kit-montees-par-des-voleurs-parfois-adolescents_5660423.html)
+
+<span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Géolocalisation</strong></span>
+- Overpass Turbo, Google Earth...
+- [Comment Génération identitaire a "berné" des propriétaires pour organiser leurs camps d'été (franceinfo)](https://www.francetvinfo.fr/france/enquete-franceinfo-comment-generation-identitaire-a-berne-des-proprietaires-pour-organiser-ses-camps-d-ete_4319707.html)
+
+<span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Analyse d'images satellite</strong></span>
+- SentinelHub, outils de la Nasa...
+- [En Arabie saoudite, The Line, ville futuriste et controversée du projet Neom, est déjà visible depuis le ciel](https://www.francetvinfo.fr/monde/moyen-orient/en-images-arabie-saoudite-the-line-ville-futuriste-et-controversee-du-projet-neom-est-deja-visible-depuis-le-ciel_5530041.html)
+
+<span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Développement de scripts d'aide à l'investigation</strong></span>
+- OCR (pytesseract), speech-to-text (whisper), métadonnées (exiftool), analyse d'images (opencv)...
+
+<span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Automatisation</strong></span>
+- tâches automatisées grâce à un serveur VPS
+- [Energiebot](https://twitter.com/energiebot), [Doesthispersonexist](https://briceleborgne.github.io/posts/doesthisperson.html)
+<br/><br/>
+<br/><br/>
 
 ## Portfolio
 
