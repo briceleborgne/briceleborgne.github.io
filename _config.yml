@@ -2,5 +2,11 @@ theme: jekyll-theme-minimal
 title: Brice Le Borgne
 description: datajournalisme & enquête en source ouverte |
       </br>
-      <h2>Me contacter</h2>
+      <h3>Me contacter</h3>
+      <ul>
+        <li>en DM sur <a href="http://www.twitter.com/BriceLeBorgne">Twitter</a></li>
+        <li>par ProtonMail : brice.leborgne@protonmail.com - <a href="/files/publickey.brice.leborgne@protonmail.com.asc">ma clé PGP publique est ici</a></li>
+        <li>par messagerie chiffrée (Signal ou Telegram)</li>
+      </ul>
+
 
