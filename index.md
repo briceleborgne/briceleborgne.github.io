@@ -20,7 +20,7 @@
 <br/><br/>
 
 ## Compétences
-<span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Scrapping</strong></span>
+<span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Scraping</strong></span>
 - Python (selenium, bs4), webscraper.io, ...
 - [Comment les sanctions de l'Arcom contre C8 et Cyril Hanouna se sont évaporées des sites de "Télé-Loisirs", "Voici" ou "Gala" après leur rachat par Vincent Bolloré (Complément d'Enquête)](https://www.francetvinfo.fr/culture/tv/cyril-hanouna/infographie-comment-les-sanctions-de-l-arcom-contre-c8-et-cyril-hanouna-se-sont-evaporees-des-sites-de-tele-loisirs-voici-ou-gala-apres-leur-rachat-par-vincent-bollore_6209427.html)
 
