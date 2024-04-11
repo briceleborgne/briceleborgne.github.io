@@ -6,7 +6,7 @@
 |:----------|:---------------------------------------------|
 | 2023 -    | Journaliste - Complément d'Enquête           |
 | 2020 -    | Journaliste - franceinfo.fr                  |
-| 2020 -    | Formateur en journalisme de données et enquête en source ouverte - ESJ Lille, CFJ Paris |
+| 2020 -    | Formateur en journalisme de données et enquête en sources ouvertes - ESJ Lille, CFJ Paris |
 | 2018/2020 | Journaliste pour "L'Oeil du 20 heures" - France 2 |
 | Août 2019 | Pigiste Mediapart                            |
 | 2017/2018 | Apprenti à l'Agence France Presse (AFP)      |
