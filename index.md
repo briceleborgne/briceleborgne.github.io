@@ -4,7 +4,7 @@
 
 |           |                                              |
 |:----------|:---------------------------------------------|
-| 2023 -    | Journaliste pour Complément d'Enquête - France 2  |
+| 2023 -    | Journaliste pour "Complément d'Enquête" - France 2  |
 | 2020 -    | Journaliste pour franceinfo.fr                  |
 | 2020 -    | Formateur en journalisme de données et enquête en sources ouvertes - ESJ Lille, CFJ Paris |
 | 2018/2020 | Journaliste pour "L'Oeil du 20 heures" - France 2 |
