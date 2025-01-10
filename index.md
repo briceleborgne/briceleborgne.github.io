@@ -38,7 +38,9 @@
 
 <span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Cartographie</strong></span>
 - Qgis, R, Flourish
+- [Guerre au Liban : où en est l'offensive terrestre israélienne, plus de deux semaines après son déclenchement ? (franceinfo)](https://www.francetvinfo.fr/monde/proche-orient/guerre/cartes-guerre-au-liban-ou-en-est-l-offensive-terrestre-israelienne-plus-de-deux-semaines-apres-son-declenchement_6841166.html){:target="_blank"}
 - [Présidentielle 2022 : trois cartes pour visualiser la progression inédite de Marine Le Pen (franceinfo)](https://www.francetvinfo.fr/elections/presidentielle/resultats-presidentielle-2022-trois-cartes-pour-visualiser-la-progression-de-marine-le-pen_5101561.html){:target="_blank"}
+
 
 <span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Investigations numériques</strong></span>
 - Virustotal, SecurityTrails, Builtwith...
@@ -46,8 +48,8 @@
 - [Carte vitale, vignette Crit'air, livraison de colis... Derrière les arnaques par SMS, des escroqueries en kit montées par des voleurs parfois adolescents (franceinfo)](https://www.francetvinfo.fr/internet/securite-sur-internet/enquete-franceinfo-carte-vitale-vignette-crit-air-livraison-de-colis-derriere-les-arnaques-par-sms-des-escroqueries-en-kit-montees-par-des-voleurs-parfois-adolescents_5660423.html){:target="_blank"}
 
 <span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Géolocalisation</strong></span>
-- Overpass Turbo, Google Earth...
-- [Comment Génération identitaire a "berné" des propriétaires pour organiser leurs camps d'été (franceinfo)](https://www.francetvinfo.fr/france/enquete-franceinfo-comment-generation-identitaire-a-berne-des-proprietaires-pour-organiser-ses-camps-d-ete_4319707.html){:target="_blank"}
+- Overpass Turbo, Google Earth, QGIS...
+- [Les exécutions des prisonniers d'Al-Fulah, l'un des nombreux crimes de guerre au Soudan retransmis en toute impunité sur les réseaux sociaux](https://www.francetvinfo.fr/monde/afrique/soudan/enquete-guerre-au-soudan-les-executions-d-al-fulah-l-un-des-nombreux-crimes-de-guerre-retransmis-en-toute-impunite-sur-les-reseaux-sociaux_6926654.html){:target="_blank"}
 
 <span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Analyse d'images satellite</strong></span>
 - SentinelHub, outils de la Nasa...
@@ -67,7 +69,7 @@
 ### Complément d'Enquête
 - <span style="background-color:#f38f7f; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Enquête & Osint</strong></span> [Affaire des assistants FN au Parlement européen : les lourdes incohérences de Nicolas Bay pour prouver le travail de son collaborateur](https://www.francetvinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/enquete-affaire-des-assistants-fn-au-parlement-europeen-les-incoherences-de-nicolas-bay-pour-prouver-le-travail-de-son-collaborateur_6764839.html){:target="_blank"}
 - <span style="background-color:#63a4dd; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Data & scrapping</strong></span> [Comment les sanctions de l'Arcom contre C8 et Cyril Hanouna se sont évaporées des sites de "Télé-Loisirs", "Voici" ou "Gala" après leur rachat par Vincent Bolloré](https://www.francetvinfo.fr/culture/tv/cyril-hanouna/infographie-comment-les-sanctions-de-l-arcom-contre-c8-et-cyril-hanouna-se-sont-evaporees-des-sites-de-tele-loisirs-voici-ou-gala-apres-leur-rachat-par-vincent-bollore_6209427.html){:target="_blank"}
-- <span style="background-color:#63a4dd; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Data</strong></span>[Ce que l'on sait des résidus de pesticides dans l'eau du robinet de milliers de communes (et des incertitudes sur leur toxicité)](https://www.francetvinfo.fr/sante/environnement-et-sante/infographies-ce-que-l-on-sait-des-residus-de-pesticides-dans-l-eau-du-robinet-de-milliers-de-communes-et-des-incertitudes-sur-leur-toxicite_5360212.html){:target="_blank"}
+- <span style="background-color:#63a4dd; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Data</strong></span>[ Ce que l'on sait des résidus de pesticides dans l'eau du robinet de milliers de communes (et des incertitudes sur leur toxicité)](https://www.francetvinfo.fr/sante/environnement-et-sante/infographies-ce-que-l-on-sait-des-residus-de-pesticides-dans-l-eau-du-robinet-de-milliers-de-communes-et-des-incertitudes-sur-leur-toxicite_5360212.html){:target="_blank"}
 - <span style="background-color:#63a4dd; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Data</strong></span> [ Pourquoi les pénuries de médicaments ont pris de l'ampleur en France](https://www.francetvinfo.fr/sante/medicament/infographies-penuries-de-medicaments-un-phenomene-qui-prend-de-l-ampleur-decrypte-en-cinq-graphiques_4762875.html){:target="_blank"}
 
 
