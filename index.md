@@ -49,7 +49,7 @@
 
 <span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Géolocalisation</strong></span>
 - Overpass Turbo, Google Earth, QGIS...
-- [Les exécutions des prisonniers d'Al-Fulah, l'un des nombreux crimes de guerre au Soudan retransmis en toute impunité sur les réseaux sociaux](https://www.francetvinfo.fr/monde/afrique/soudan/enquete-guerre-au-soudan-les-executions-d-al-fulah-l-un-des-nombreux-crimes-de-guerre-retransmis-en-toute-impunite-sur-les-reseaux-sociaux_6926654.html){:target="_blank"}
+- [Les exécutions des prisonniers d'Al-Fulah, l'un des nombreux crimes de guerre au Soudan retransmis en toute impunité sur les réseaux sociaux (franceinfo)](https://www.francetvinfo.fr/monde/afrique/soudan/enquete-guerre-au-soudan-les-executions-d-al-fulah-l-un-des-nombreux-crimes-de-guerre-retransmis-en-toute-impunite-sur-les-reseaux-sociaux_6926654.html){:target="_blank"}
 
 <span style="background-color:#c8c8c8; border-radius: 4px; color: #fff; padding: 0 8px;"><strong>Analyse d'images satellite</strong></span>
 - SentinelHub, outils de la Nasa...
@@ -124,6 +124,7 @@
 ## Blog
 
 
+- [Circoflex](https://briceleborgne.shinyapps.io/circoflex/){:target="_blank"}, un site codé rapidement dans le cadre des élections législatives anticipées de 2024, pour connaître, circo par circo, le/la député.e sortant.e, les candidats, les résultats aux dernières élections.
 - [EnergieBot](https://twitter.com/energiebot){:target="_blank"}, un bot Twitter pour publier automatiquement plusieurs graphiques et indicateurs liés à la production et la consommation d'énergie en France.
 - [Un compte Twitter pour savoir si une photo de profil est (potentiellement) issue de thispersondoesnotexist.com](https://briceleborgne.github.io/posts/doesthisperson.html){:target="_blank"}
 - [Circloflex](https://twitter.com/circoflex2022){:target="_blank"}, un bot Twitter pour publier automatiquement les résultats des élections législatives 2022
